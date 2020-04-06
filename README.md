@@ -1,6 +1,6 @@
 # Jokenpo
 
-1-Stech utilizada: 
+1-Stack utilizada: 
   Java 8,
   Maven,
   Spring boot,
