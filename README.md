@@ -1,18 +1,22 @@
 # Jokenpo
 
-1-Stech utilizada:
-Java 8,
-Maven,
-Spring boot,
-Junit,
-Lombok,
-JDK 1.8
+1-Stech utilizada: 
 
+
+  Java 8,
+  Maven,
+  Spring boot,
+  Junit,
+  Lombok,
+  JDK 1.8
+  
+  
 2-Para conseguir utilizar o Lombok siga esse tutorial:
 
   link-https://dicasdejava.com.br/como-configurar-o-lombok-no-eclipse/
 
 3-Formato da aplicação:
+
     *.jar
 
 4-Descrição da funcionalidade:
