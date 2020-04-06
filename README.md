@@ -21,7 +21,8 @@ JDK 1.8
  
  o sistema so ira aceitar os numeros referentes ao id da escolha tipo:
  
-   ID referente as escolhas dos jogadores 
+   ID referente as escolhas dos jogadores :
+   
     0-Papel 
     1-Pedra 
     2-Tesoura
